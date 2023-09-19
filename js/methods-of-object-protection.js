@@ -25,7 +25,7 @@ delete zoo.owner;
 console.log(zoo);
 console.log(Object.isSealed(zoo));
 
-//заборона додаванняб видалення, зміни властивостей
+// заборона додавання, видалення, зміни властивостей
 Object.freeze(zoo);
 
 zoo.address = 'Kyiv';
