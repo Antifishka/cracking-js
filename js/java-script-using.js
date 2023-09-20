@@ -4,7 +4,7 @@
 
 // Games (web GL, canvas, NTML 5)
 
-// Mobile apps IOS, Android (React Nativ, Flutter)
+// Mobile apps IOS, Android (React Native, Flutter)
 
 // Desktop apps windows, MAC OS (electron)
 
